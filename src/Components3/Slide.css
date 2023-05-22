@@ -1,0 +1,21 @@
+.black{
+      
+        padding: 0.2em 0.75em;
+        line-height: 1.5;
+        font-style: italic;
+        font-size: 1.2em;
+        border-left: 4px solid #67bdfc;
+}
+    .black {
+        display: block;
+        /* display: flex; */
+     flex-direction: column;
+       align-items: center;
+       justify-content: center;
+        width: 60%;
+        white-space: pre-wrap;
+        word-break: break-word;
+        /* border-left: 3px solid;
+        padding: 0.2em 0.9em; */
+        margin: 0 250px;
+    }

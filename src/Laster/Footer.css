@@ -1,0 +1,21 @@
+.lthing{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.fa-solid.fa-sun
+{
+     margin-right: 0;
+     cursor: pointer;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    
+    padding: 0.25em;
+    margin-right: 1vw;
+    transition: color .25s ease-out;
+}
+

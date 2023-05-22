@@ -1,0 +1,60 @@
+.on{
+   display: grid;
+   place-items: center;
+}
+
+.picture{
+    width: 1000px;
+    height: 200px;
+    object-fit: cover;
+    
+    border-radius: 5px;
+}
+
+/* .tw{
+    display: flex;
+    margin-left: 400px;
+} */
+
+.notatation-title{
+    display: block;
+    text-align: center;
+}
+
+.notion-title {
+    width: 100%;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    line-height: 1.2;
+    text-align: center;
+}
+.notion b, .notion-title {
+    font-weight: 600;
+}
+
+.notion-text:first-child {
+    margin-top: 2px;
+}
+
+.notion-text {
+    padding: 0.5em 2px;
+}
+.notion-text {
+    width: 100%;
+    white-space: pre-wrap;
+    word-break: break-word;
+    padding: 3px 2px;
+    margin-left: 250px;
+
+}
+.notion *, .notion :focus {
+    outline: 0;
+}
+
+.star{
+    font-size: 78px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: -52px;
+}
